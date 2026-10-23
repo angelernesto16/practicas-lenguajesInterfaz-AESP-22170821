@@ -1,13 +1,13 @@
 # practicas-lenguajesInterfaz-AESP-22170821
 
-## Datos Generales
+## Datos Alumno y Docente
 * **Materia:** Lenguajes de Interfaz
 * **Unidad:** 2 PROGRAMACION BASICA
 * **Alumno:** Angel Ernesto Santos Plazola
 * **Horario:** 08:00 - 09:00
 * **Docente:** Dr. José Luis Medina Jiménez
 
-## Índice de Prácticas
+## Prácticas
 1. [Ciclos numéricos](./01_CiclosNumericos.asm)
 2. [Captura y desplegado de mensajes](./02_Ingreso_De_Datos.asm)
 3. [Comparación y prueba](./03_Comparacion_y_Prueba.asm)
